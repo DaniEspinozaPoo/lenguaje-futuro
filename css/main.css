@@ -1,0 +1,68 @@
+/*
+	Inserta tu CSS aqui
+*/
+
+
+.banner{
+	background-image: url(../img/grupal.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;	
+	height:700px;
+	position: relative;	
+}
+
+.boton{
+	width: 35%;
+	height: 28px;
+	background-color: #F7AA2D;
+	border-radius: 3px;
+	text-align: center;
+	color: black;
+	padding: 3px;
+	margin-top:20%; 
+	font-size: 12px;
+	text-decoration: none;
+	list-style: none;
+}
+
+.logo{
+	width: 100%;
+	margin-top: 30%;
+}
+
+li{
+	margin-top: 20%;
+	margin-left: 2px;
+}
+
+ul, li,  a {
+	text-decoration: none;
+	list-style: none;
+	display: inline-block;
+	margin-left: 6px;
+    text-align: center;
+	color: black;
+	font-size: 15px;
+	font-family: 'Open Sans';
+}
+
+
+.img {
+	width: 100%;
+	margin-top: 4%;	
+}
+
+h3{
+	font-family:'Open Sans';
+	font-size: 15px;
+	margin-top: 4%;
+	margin-bottom: 4%;
+}
+.tercera-parte{
+	background-color:#262625;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family:'Open Sans';
+	padding: 20px 40px;
+
+}
